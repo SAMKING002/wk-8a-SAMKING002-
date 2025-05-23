@@ -56,10 +56,10 @@ USE Library;
 
 ###🛠️ Example Values (Optional)
 1. You might populate ReservationStatus like:
- **INSERT INTO ReservationStatus (status_value) VALUES ('Pending'), ('Approved'), ('Rejected');
+ - **INSERT INTO ReservationStatus (status_value) VALUES ('Pending'), ('Approved'), ('Rejected');
  
 2. And MemberStatus like:
-**INSERT INTO MemberStatus (status_value) VALUES ('Active'), ('Inactive'), ('Suspended');
+- **INSERT INTO MemberStatus (status_value) VALUES ('Active'), ('Inactive'), ('Suspended');
 
 ### 📧 Contact
 For questions or improvements, feel free to reach out to the project author.
